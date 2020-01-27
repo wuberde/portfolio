@@ -31,12 +31,13 @@ nav {
 nav a {
 	text-decoration:none;
 	display:inline-block;
-	padding: 30px 30px;
+	padding: 5px 30px;
 	background-color:none;
 	color: white;
 	font-size: 25px;
 	font-weight:normal;
 	font-family:sans-serif;
+	
 	
 }
 nav a:hover {
